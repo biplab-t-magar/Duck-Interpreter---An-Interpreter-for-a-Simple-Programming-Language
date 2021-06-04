@@ -7,4 +7,4 @@ A interpretor a simple programming language, _Duck_. The interpretor handles pri
 
 2) Run the following command to run the file containing your Duck program:
   
-  `./duckInterp <duck program filename>`
+  `./duckInterp <Duck program filename>`
