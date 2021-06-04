@@ -1,4 +1,4 @@
-#Duck Intepretor
+# Duck Intepretor
 A interpretor a simple programming language, _Duck_. The interpretor handles print statements, read statements, conditionals, loops, complex arithmetic expressions, variables, and arrays.
 
 # How to run a Duck program
